@@ -8,7 +8,7 @@
     "curl"
     ],
     "homepage": "https://github.com/herokeyboard/curl",
-    "license": "MIT",
+    "license": "GPL-3.0+",
     "authors": [
     {
     	"name":"Herokeyboard",
