@@ -1,0 +1,39 @@
+{
+    "name": "herokeyboard/curl",
+    "type": "library",
+    "description": "CURL",
+    "version": "1.0.0",
+    "keywords": [
+    "herokeyboard",
+    "curl"
+    ],
+    "homepage": "https://github.com/herokeyboard/curl",
+    "license": "MIT",
+    "authors": [
+    {
+    	"name":"Herokeyboard",
+    	"email": "herokeyboard@github.com",
+        "homepage": "https://github.com/herokeyboard/curl",
+        "role": "Developer"
+    },
+        {
+        "name":"Herokeyboard",
+    	"email": "herokeyboard@github.com",
+        "homepage": "https://github.com/herokeyboard/curl",
+        "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "support": {
+        "issues": "https://github.com/herokeyboard/curl/issues",
+        "source": "https://github.com/herokeyboard/curl/releases"
+    },
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Herokeyboard\\": "src/"
+        }
+    }
+}
